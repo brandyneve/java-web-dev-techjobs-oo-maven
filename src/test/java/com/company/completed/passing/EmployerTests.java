@@ -4,7 +4,7 @@ import com.company.Employer;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class EmployerTests {
+/*public class EmployerTests {
 
     // this will need to be removed when you are DRYing your code
     private static final Employer noArgEmployer = new Employer();
@@ -32,4 +32,4 @@ public class EmployerTests {
     public void testNotEquals() {
         Assertions.assertFalse(noArgEmployer.equals(oneArgEmployer));
     }
-}
+}*/
